@@ -123,7 +123,6 @@ OK
 Destroying test database for alias 'default'...
 ```
 
-Compare your solution with [the solution provided](https://github.com/dci-python-course/Python-databases-orm-models-fields/commits/solution_task1).
 
 ### Task 2
 
@@ -201,7 +200,6 @@ OK
 Destroying test database for alias 'default'...
 ```
 
-Compare your solution with [the solution provided](https://github.com/dci-python-course/Python-databases-orm-models-fields/commits/solution_task2).
 
 ### Task 3
 
@@ -268,4 +266,3 @@ Then, open Django's shell and type the following ORM queries:
     ```
     14
     ```
-Compare your solutions with [the solutions provided](https://github.com/dci-python-course/Python-databases-orm-models-fields/commits/solution_task3).
